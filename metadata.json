@@ -1,0 +1,7 @@
+{
+  "name": "Teacher's Aid",
+  "description": "A culturally sensitive communication bridge for teachers and ESL students.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
