@@ -4,7 +4,13 @@
 
 Powered by **Google Gemini 2.5**, this app goes beyond simple translation. It prioritizes **intent**, **emotional tone**, and **pedagogical strategy** to ensure students feel understood and safe.
 
-![App Screenshot Placeholder](https://via.placeholder.com/800x400?text=Teacher%27s+Aid+Interface)
+<img width="900" height="400" alt="Screenshot 2025-12-14 200335" src="https://github.com/user-attachments/assets/fb3ab1a5-f3c7-4956-8bbb-a9111c85e146" />
+<img width="300" height="250" alt="Screenshot 2025-12-14 200345" src="https://github.com/user-attachments/assets/db0168bc-b989-430d-ac31-0bf99ee59898" />
+<img width="300" height="250" alt="Screenshot 2025-12-14 200432" src="https://github.com/user-attachments/assets/0896e3bb-db5d-46a9-8aee-92e237c9467d" />
+<img width="300" height="250" alt="Screenshot 2025-12-14 200420" src="https://github.com/user-attachments/assets/d558e369-8a9d-467d-ae2c-fe19a25c0774" />
+
+
+
 
 ## 🌟 Key Features
 
